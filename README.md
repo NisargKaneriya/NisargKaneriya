@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently pursuing my education in the field of computer science and engineering.<br>🎯 Goals: Full stack developer<br>🎲 Fun fact: Ready to learn new thing</p>
+<p align="left">📚 I'm currently pursuing my education in the field of computer science and engineering.<br>🎯 Goals: Full stack developer<br></p>
 
 ###
 
